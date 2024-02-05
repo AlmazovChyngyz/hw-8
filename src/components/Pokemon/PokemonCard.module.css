@@ -1,0 +1,30 @@
+.card {
+    margin-top: 50px;
+    width: 300px;
+    height: 370px;
+    border: red 1px solid;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #44f1cc;
+}
+img {
+    width: 180px;
+    height: 230px;
+}
+h1 {
+    color: #282c34;
+    font-size: 22px;
+    text-transform: uppercase;
+}
+button {
+    margin-top: 5px;
+    width: 120px;
+    height: 30px;
+    font-size: 15px;
+    border-radius: 5px;
+    border:#333333 solid 1px ;
+    cursor: pointer;
+    background-color: #ffffff;
+}
